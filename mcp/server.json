@@ -1,0 +1,21 @@
+{
+  "description" : "Expose GitHub-hosted PromptPlus collections",
+  "name" : "PromptPlus MCP",
+  "resources" : [
+    {
+      "id" : "prompt:\/\/wo6926cuuy",
+      "mimeType" : "application\/json",
+      "name" : "Prompt Plus 提示词仓库",
+      "source" : {
+        "github" : {
+          "owner" : "IamWills",
+          "path" : "collections\/wo6926cuuy.json",
+          "ref" : "main",
+          "repo" : "PromptPlus-prompts"
+        },
+        "type" : "github"
+      }
+    }
+  ],
+  "version" : "1.0.0"
+}
