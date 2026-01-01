@@ -1,0 +1,15 @@
+{
+  "id" : "wo6926cuuy",
+  "metadata" : {
+    "description" : "这个仓库管理所有的prompt+的提示词。",
+    "name" : "Prompt Plus 提示词仓库",
+    "version" : "1.0.0"
+  },
+  "prompts" : [
+    {
+      "id" : "receiption",
+      "role" : "system",
+      "template" : ""
+    }
+  ]
+}
