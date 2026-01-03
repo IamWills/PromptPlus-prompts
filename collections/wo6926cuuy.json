@@ -1,5 +1,5 @@
 {
-  "description" : "这个仓库管理所有的prompt+的提示词。\n",
+  "description" : "This repo will manage all the prompts of Prompt+.\n",
   "enabled" : true,
   "id" : "wo6926cuuy",
   "items" : [
@@ -18,7 +18,7 @@
       ]
     }
   ],
-  "lastUpdated" : "2026-01-03T10:19:25Z",
-  "name" : "Prompt Plus 提示词仓库",
-  "version" : "1.0.4"
+  "lastUpdated" : "2026-01-03T10:21:31Z",
+  "name" : "Prompt Plus Prompts Collections",
+  "version" : "1.0.5"
 }
