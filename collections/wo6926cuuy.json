@@ -1,5 +1,5 @@
 {
-  "description" : "这个仓库管理所有的prompt+的提示词。",
+  "description" : "这个仓库管理所有的prompt+的提示词。\n",
   "enabled" : true,
   "id" : "wo6926cuuy",
   "items" : [
@@ -8,10 +8,17 @@
       "description" : "guide the AI assist the user at the first page of app.",
       "id" : "receiption",
       "priority" : 0,
-      "role" : "system"
+      "role" : "system",
+      "variables" : [
+        {
+          "maxLength" : 80,
+          "name" : "appName",
+          "type" : "string"
+        }
+      ]
     }
   ],
-  "lastUpdated" : "2026-01-02T01:18:02Z",
+  "lastUpdated" : "2026-01-03T10:19:25Z",
   "name" : "Prompt Plus 提示词仓库",
-  "version" : "1.0.3"
+  "version" : "1.0.4"
 }
