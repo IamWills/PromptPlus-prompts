@@ -5,7 +5,7 @@
     {
       "id" : "prompt:\/\/wo6926cuuy",
       "mimeType" : "application\/json",
-      "name" : "Prompt Plus 提示词仓库",
+      "name" : "Prompt Plus Prompts Collections",
       "source" : {
         "github" : {
           "owner" : "IamWills",
